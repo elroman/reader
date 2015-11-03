@@ -1,0 +1,15 @@
+@(message: String)
+
+@main("Welcome to Play") {
+
+    @message
+
+    <a href="@routes.ReaderController.load()">
+        <button type="submit" id="doLoad" name="doLoad" >
+            START LOAD
+        </button>
+    </a>
+
+}{
+
+}

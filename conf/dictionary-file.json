@@ -1,0 +1,43 @@
+[
+  {
+    "ruVersion": "кот",
+    "enVersion": "cat"
+  },
+  {
+    "ruVersion": "собака",
+    "enVersion": "dog"
+  },
+  {
+    "ruVersion": "стол",
+    "enVersion": "table"
+  },
+  {
+    "ruVersion": "стул",
+    "enVersion": "chair"
+  },
+  {
+    "ruVersion": "тарелка",
+    "enVersion": "plate"
+  },
+  {
+    "ruVersion": "ручка",
+    "enVersion": "pen"
+  },
+  {
+    "ruVersion": "карандаш",
+    "enVersion": "pencil"
+  },
+  {
+    "ruVersion": "песня",
+    "enVersion": "song"
+  },
+  {
+    "ruVersion": "дерево",
+    "enVersion": "tree"
+  },
+  {
+    "ruVersion": "машина",
+    "enVersion": "car"
+  }
+]
+
